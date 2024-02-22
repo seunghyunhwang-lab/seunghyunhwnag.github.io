@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "About"
-    url:
+    url:"https://www.shinhangroup.com/kr/"
   - title: "Projects"
-    url:
+    url:"https://www.shinhan.com/"
   - title: "Guide"
-    url:
+    url:"https://www.shinhancard.com/"
   - title: "Compliance"
-    url:
+    url:"https://www.shinhanlife.co.kr/"
   - title: "Blog"
-    url:
+    url:"https://www.shinhands.co.kr/"
   - title: "GitHub"
-    url:
+    url:"https://www.e-jejubank.com/"
   - title: "SOSP"
-    url:
+    url:"https://www.shinhansavings.com/"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
