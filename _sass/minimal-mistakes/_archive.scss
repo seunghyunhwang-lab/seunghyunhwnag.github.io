@@ -2,6 +2,22 @@
    ARCHIVE
    ========================================================================== */
 
+   .homepage-main {
+    display: flex; /* Flexbox 레이아웃 사용 */
+    justify-content: center; /* 가로축 중앙 정렬 */
+    align-items: center; /* 세로축 중앙 정렬 */
+    height: 100vh; /* 뷰포트의 높이에 맞춤 */
+    margin: 0; /* 필요한 경우 마진 제거 */
+    padding: 0; /* 필요한 경우 패딩 제거 */
+  }
+  
+  .homepage-main img {
+    max-width: 90%; /* 화면 너비의 90%를 최대 너비로 설정 */
+    max-height: 80vh; /* 뷰포트 높이의 80%를 최대 높이로 설정 */
+    object-fit: cover; /* 이미지 비율을 유지하면서 요소에 꽉 차게 채움 */
+    border-radius: 10px; /* 이미지에 둥근 모서리 효과 적용 */
+  }
+
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
