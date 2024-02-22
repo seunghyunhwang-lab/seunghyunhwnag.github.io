@@ -68,7 +68,7 @@ algolia:
   application_id         : 
   index_name             : 
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : "Shinhan Financial Group"
+  powered_by             : 
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
