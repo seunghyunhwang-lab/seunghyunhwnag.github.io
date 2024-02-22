@@ -196,6 +196,12 @@ input[type="hidden"] {
   margin-left: 10px;
 }
 
+@media (max-width: 768px) {
+  .menu-class-name {
+    display: none;
+  }
+}
+
 /*
      Disabled state
      ========================================================================== */
