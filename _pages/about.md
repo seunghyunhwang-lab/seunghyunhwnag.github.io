@@ -1,24 +1,14 @@
 ---
-title: "about"
+title: "About"
 layout: archive
 permalink: /about/
 ---
+# 신한그룹 오픈소스 포털에 대한 소개 필요...
+아닌가..
 
 A variety of common markup showing how the theme styles them.
 
-# Header one
 
-## Header two
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
 
 Single line blockquote:
 
