@@ -12,6 +12,8 @@ main:
     url:
   - title: "GitHub"
     url:
+  - title: "Contact Us"
+    url:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
