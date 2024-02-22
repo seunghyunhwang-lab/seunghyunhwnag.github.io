@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : sh
+    shortname            : 
   discourse:
     server               : 
   facebook:
@@ -65,10 +65,10 @@ search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
+  application_id         : 
+  index_name             : 
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : 
+  powered_by             : "Shinhan Financial Group"
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
