@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "seunghyun hwang"
 description              : "opensource portal"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://github.com/seunghyunhwnag/seunghyunhwnag.github.io"
+baseurl                  : ""
+repository               : # GitHub username/repo-name e.g. ""
 teaser                   : "/assets/images/shinhan_CI_kr_2022-01.png"
 logo                     : "/assets/images/shinhan_CI_kr_2022-01.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
