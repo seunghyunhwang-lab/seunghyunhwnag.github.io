@@ -1,8 +1,9 @@
 ---
 title: "블로그 소개 페이지"
 permalink: /about/
-layout: single
+layout: page
 author_profile: false
+published: true
 ---
 
 블로그 **소개** 페이지입니다.
