@@ -1,9 +1,9 @@
 ---
 title: "블로그 소개 페이지"
-permalink: /about/
+permalink: /github/
 layout: page
 author_profile: false
 published: true
 ---
 
-<p align="center">신한 오픈소스 외부 포털에 대한 소개</p>
+<p align="center">그룹 공식 깃헙주소로 이동</p>
