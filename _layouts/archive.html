@@ -7,11 +7,25 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
+<style>
+  .t_text p {
+    font-family: Arial;
+    font-size: 16px; /* 기본 폰트 크기 */
+  }
+
+  /* 화면 너비가 768픽셀 이하일 때 적용될 스타일 */
+  @media (max-width: 768px) {
+    .t_text p {
+      font-size: 14px; /* 모바일 기기에서의 폰트 크기 */
+    }
+  }
+</style>
+
 <div class="title_image">
   <div class="t_img">
     <img src="https://seunghyunhwnag.github.io/assets/images/sjw.jpg">
   </div>
-  <div class="t_text" style="font-family: Arial;">
+  <div class="t_text">
     <p>SHFG Open Source Portal</p>
   </div>
 </div>
