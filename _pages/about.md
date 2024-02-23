@@ -1,7 +1,7 @@
 ---
 title: "블로그 소개 페이지"
 permalink: /about/
-layout: page
+layout: post
 author_profile: false
 published: true
 ---
