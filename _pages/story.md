@@ -1,5 +1,5 @@
 ---
-title: "블로그 소개 페이지"
+title: "그룹 사례 공유"
 permalink: /story/
 layout: page
 author_profile: false

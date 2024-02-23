@@ -1,5 +1,5 @@
 ---
-title: "블로그 소개 페이지"
+title: "공식 github"
 permalink: /github/
 layout: page
 author_profile: false

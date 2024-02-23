@@ -1,5 +1,5 @@
 ---
-title: "블로그 소개 페이지"
+title: "오픈소스 Insight"
 permalink: /insight/
 layout: page
 author_profile: false

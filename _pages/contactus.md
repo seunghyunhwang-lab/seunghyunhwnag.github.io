@@ -1,5 +1,5 @@
 ---
-title: "블로그 소개 페이지"
+title: "문의사항"
 permalink: /contactus/
 layout: page
 author_profile: false
