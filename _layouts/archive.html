@@ -7,6 +7,14 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
+<div class="title_image">
+  <div class="t_img">
+    <img src="https://seunghyunhwnag.github.io/assets/images/sjw.jpg">
+  </div>
+  <div class="t_text">
+    <p>승현금융그룹의 오픈소스 포털에 오신 것을 환영합니다!</p>
+  </div>
+</div>
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
@@ -25,8 +33,3 @@ layout: default
   </div>
 </div>
 
-<div class="title_image">
-  <div class="t_img">
-    <img src="https://seunghyunhwnag.github.io/assets/images/sjw.jpg">
-  </div>
-</div>
