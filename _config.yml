@@ -24,7 +24,7 @@ description              : "opensource portal"
 url                      : "https://github.com/seunghyunhwnag/seunghyunhwnag.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. ""
-teaser                   : "/assets/images/shinhan_CI_kr_2022-01.png"
+teaser                   : #"/assets/images/shinhan_CI_kr_2022-01.png"
 logo                     : "/assets/images/shinhan_CI_kr_2022-01.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
