@@ -56,6 +56,7 @@
   margin-top: 1em;
   padding-top: 1em;
   width: 100%;
+  max-width: 100%;
 
   ul {
     margin: 0;
@@ -178,6 +179,7 @@
   align-items: center;
   min-height: $nav-height;
   background: $background-color;
+  max-width: 100%;
 
   a {
     display: block;
@@ -227,6 +229,7 @@
     -ms-flex: 1;
     flex: 1;
     overflow: hidden;
+    max-width: 100%;
 
     li {
       -webkit-box-flex: 0;
