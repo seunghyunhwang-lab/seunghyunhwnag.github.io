@@ -13,8 +13,10 @@
 
   &__inner-wrap {
     @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
+    //margin-left: auto;
+    //margin-right: auto;
     padding: 0.4em;
     max-width: 100%;
     display: -webkit-box;
@@ -22,7 +24,7 @@
     display: flex;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-around;
+    justify-content: space-between;
     font-family: $sans-serif-narrow;
     font-size: $type-size-5;
     //font-weight: bold;
@@ -69,6 +71,7 @@
 
   .site-nav {
     margin-left: 0;
+    margin-right: 0;
 
     @include breakpoint($small) {
       float: right;
