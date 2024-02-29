@@ -19,7 +19,8 @@
   animation-delay: 0.3s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 100%;
+    //max-width: $x-large;
   }
 
   ol {
@@ -224,7 +225,8 @@
     display: flex;
     -webkit-box-pack: end;
     -ms-flex-pack: end;
-    justify-content: flex-end;
+    justify-content: flex-start;
+    //justify-content: flex-end;
     -webkit-box-flex: 1;
     -ms-flex: 1;
     flex: 1;
