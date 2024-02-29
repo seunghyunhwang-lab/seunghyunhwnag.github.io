@@ -19,7 +19,7 @@
   animation-delay: 0.3s;
 
   @include breakpoint($x-large) {
-    max-width: 100%;
+    width: 100%;
     //max-width: $x-large;
   }
 
@@ -30,11 +30,13 @@
 
     @include breakpoint($large) {
       float: right;
-      width: calc(100% - #{$right-sidebar-width-narrow});
+      width: 100%;
+      //width: calc(100% - #{$right-sidebar-width-narrow});
     }
 
     @include breakpoint($x-large) {
-      width: calc(100% - #{$right-sidebar-width});
+      width: 100%;
+      //width: calc(100% - #{$right-sidebar-width});
     }
   }
 
